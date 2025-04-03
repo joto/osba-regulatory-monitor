@@ -33,32 +33,32 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 
 * Bereitstellen eines Software Bill of Materials (SBOM), s. Annex I
 
-* Regelmäßige Risikobetrachtungen von Sicherheitsbedrokungen sowie deren Dokumentation, s. Art. 13, III und IV
+* Regelmäßige Risikobetrachtungen von Sicherheitsbedrohungen sowie deren Dokumentation, s. Art. 13, III und IV
 
 * Bereitstellen einer Komformitätserklärung, s. Art 13 XII, resp. Art. 28 I und Annex IV
 
 * Bereitstellen des CE-Kennzeichens, s. Art. 12 XII, bzw. Art 30 I
 
-* Defnieren einer Support-Dauer währned der der ANbieter Updates bereitstellt (min 5 Jahre, bzw. erwartete Nutzungsdauer) 
+* Defnieren einer Support-Dauer während derer der Anbieter Sicherheits-Updates bereitstellt (min 5 Jahre, bzw. erwartete Nutzungsdauer), s. Art. 13 VIII, S2 ff.
 
-* Kostenfreie Sicherheits-Updates während dieser Periode, welche wiederum 10 Jahre verfügbar bleiebn müssen, s. Art 13 IX
+* Kostenfreie Sicherheits-Updates während dieser Periode, welche wiederum 10 Jahre verfügbar gehalten werden müssen, s. Art 13 IX
 
 * Bereitstellen einer technischen Dokumentation, die folgendes beinhaltet (s. Art. 13 III & Annex VII) :
 
-  * Beschreibung des regulären gebrauchs sowie Fälle der fehlerhaften Nutzung und deren Einfluss auf die Risikobewertung
-  * Die Support Period, bzw. einen End-of-life-Termin 
-  * Fähigkeiten des Produktes 
+  * Beschreibung des regulären Gebrauchs sowie Fälle der fehlerhaften Nutzung und deren Einfluss auf die Risikobewertung
+  * Die Unterstützungsdauer, bzw. einen End-of-life-Termin, ab dem keine Updates mehr zu erwarten sind 
+  * Fähigkeiten des Produktes (bspw. "Kann Musik streamen und abspielen") 
   * Beschreibung, wie sich Updates installieren lassen
 
 * Organisieren und Beschreiben eines Koordinieren Schwachstellen Enthüllungsvorgehens (coordinated vulnerability disclosure, CVD), s. Art. 13, VIII
 
-* Bedienen folghender Berichtsanforderungen , s. Art. 14:
+* Bedienen folgender Berichtsanforderungen , s. Art. 14:
 
-  * Aktiv ausgenutzte Schwachstellen innerhlab 24h nach Bekanntwerden and ENISA und die nationale, Benannte Stelle (DE = BSI), s. Art 14 II a)
+  * Aktiv ausgenutzte Schwachstellen innerhalb 24h nach Bekanntwerden an die ENISA und die nationale, Benannte Stelle (DE = BSI), s. Art 14 II a)
   * Innerhalb 72h eine präzise Beschreibung der Maßnahmen, die angestrebt werden, s. Art. 14 II b)
-  * Spätestens ein Monat nach der Auflösung ein viollständiger Bericht , s. Art. 14 II c)
+  * Spätestens einen Monat nach der Auflösung der Situation ein vollständiger Bericht , s. Art. 14 II c)
   * Die Benannten Stellen dürfen nach Zwichenberichten fragen, s. Art 14 VI
-  * Die Benutzer müssen informiert werden, dass es die Gefahr gibt und was sie dagegen tun sollten (CSAF Security Advisory), s. Art. 14 VIII.
+  * Die Benutzer müssen informiert werden, dass es eine Gefahr gibt und was sie dagegen tun sollten (CSAF Security Advisory), s. Art. 14 VIII.
   * Jeden *sicherheitsrelevanten Vorfall* - der dazu geeignet wäre, die Sicherheit der Software-Supply Chain zu gefährden, bspw. gehackte Admin Credentials - innerhalb  von 24h and die ENISA und die Benannte Stelle zu melden.
 
   
