@@ -16,7 +16,6 @@ nav:
   - Hintergrund: 
     - 'index.md'
     - Mitarbeit: 'adding.md'
-    - Gestaltungsvorgaben: 'guidelines.md'
   - EU Regularien: 
     - EU Cyber Resilience Act: 'cra.md'
     - EU NIS2 directive: 'nis2.md'
@@ -26,7 +25,6 @@ nav:
   - About: 
     - 'about.md'
     - Changelog: '../CHANGELOG.md'
-
 
 theme:
   name: material
@@ -77,8 +75,9 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-  plugins:
-    - tags
+
+plugins:
+  - tags
     
 extra:
   homepage: https://www.osb-alliance.de
