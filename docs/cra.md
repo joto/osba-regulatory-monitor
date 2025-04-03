@@ -4,25 +4,64 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 
 ## Überblick
 
-* **Verabschiedet / Veröffentlicht**: Oktober bzw. November 2024
+* **Segment**: IT Sicherheit
+* **Verabschiedet / Veröffentlicht**: 30.10.2024 angenommen, bzw. 20.11.2024 publiziert
 * **Gültig ab**:
-  * Berichtswesen an zentrale Stellen: **September 2026**
-  * Durchführung der Schwachstellenbehebung: **Januar 2027** 
+  * Berichtswesen an zentrale Stellen: **11. September 2026**
+  * Durchführung der Schwachstellenbehebung: **11. Dezember 2027** 
 * **Gültig für**:
-  * Alle , die Produkte mit digitalen Elementen herstellen oder innerhalb der EU vertreiben (Gewinnerzielungsabsicht) und in der folgenden Liste nicht aufgeführt werden.
+  * Alle , die netzwerkfähige Produkte mit digitalen Elementen herstellen oder innerhalb der EU vertreiben (Gewinnerzielungsabsicht) und in der folgenden Liste nicht aufgeführt werden.
 * **Nicht gültig für**:
   * Lösungen in den Branchen Schiffahrt, Autombil und Luftfahrt (s. ...! )
   * Medizintechnik (vergleichbare Anfordeurngen s. [MDR](/regmon/mdr.md) !)
   * Anbieter von Cloud-Diensten (vergelichbare Anfordeurngen s. [NIS2](/regmon/nis2))
   * Anbieter nicht-gewerblicher Open Source Software, (ACHTUNG! Definition *OS Steward* beachten!) 
-* **Segment**: IT Sicherheit
+  * Individual-Entwickungen 
+* **Grauzone**:
+  * Dual-Use-Güter (bspw. nutzbar für Schiffahrt und Haushalte) => Annahme der Gültigkeit
+  * Logistik-Lösungen 
+  * SaaS-Lösungen, die IoT-Anteile haben
 * **Neuerungen / Anforderungen**:
   * Anforderung ein aktives Risiko-Management einzuführen
   * Zusätzliche Prozesse und Verantwortlichkeiten (Produktsicherheit, Vulnerability Disclosure, etc.)
   * Neue Anofrderungen an Produkt-Updates (freie Sicherheits-Patches für 10 Jahre)
+  * Konformitätserklärung und CE-Kennezichen abgeben
 
 
 
 ## Zentrale Forderungen
 
-* **
+* Bereitstellen eines Software Bill of Materials (SBOM), s. Annex I
+
+* Regelmäßige Risikobetrachtungen von Sicherheitsbedrokungen sowie deren Dokumentation, s. Art. 13, III und IV
+
+* Bereitstellen einer Komformitätserklärung, s. Art 13 XII, resp. Art. 28 I und Annex IV
+
+* Bereitstellen des CE-Kennzeichens, s. Art. 12 XII, bzw. Art 30 I
+
+* Defnieren einer Support-Dauer währned der der ANbieter Updates bereitstellt (min 5 Jahre, bzw. erwartete Nutzungsdauer) 
+
+* Kostenfreie Sicherheits-Updates während dieser Periode, welche wiederum 10 Jahre verfügbar bleiebn müssen, s. Art 13 IX
+
+* Bereitstellen einer technischen Dokumentation, die folgendes beinhaltet (s. Art. 13 III & Annex VII) :
+
+  * Beschreibung des regulären gebrauchs sowie Fälle der fehlerhaften Nutzung und deren Einfluss auf die Risikobewertung
+  * Die Support Period, bzw. einen End-of-life-Termin 
+  * Fähigkeiten des Produktes 
+  * Beschreibung, wie sich Updates installieren lassen
+
+* Organisieren und Beschreiben eines Koordinieren Schwachstellen Enthüllungsvorgehens (coordinated vulnerability disclosure, CVD), s. Art. 13, VIII
+
+* Bedienen folghender Berichtsanforderungen , s. Art. 14:
+
+  * Aktiv ausgenutzte Schwachstellen innerhlab 24h nach Bekanntwerden and ENISA und die nationale, Benannte Stelle (DE = BSI), s. Art 14 II a)
+  * Innerhalb 72h eine präzise Beschreibung der Maßnahmen, die angestrebt werden, s. Art. 14 II b)
+  * Spätestens ein Monat nach der Auflösung ein viollständiger Bericht , s. Art. 14 II c)
+  * Die Benannten Stellen dürfen nach Zwichenberichten fragen, s. Art 14 VI
+  * Die Benutzer müssen informiert werden, dass es die Gefahr gibt und was sie dagegen tun sollten (CSAF Security Advisory), s. Art. 14 VIII.
+  * Jeden *sicherheitsrelevanten Vorfall* - der dazu geeignet wäre, die Sicherheit der Software-Supply Chain zu gefährden, bspw. gehackte Admin Credentials - innerhalb  von 24h and die ENISA und die Benannte Stelle zu melden.
+
+  
+
+## Lösungsansätze & Hilfestellung
+
