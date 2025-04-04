@@ -1,8 +1,9 @@
-----
-
-
-
-
+---
+tags:
+   - cybersecurity
+   - saas
+   - kritis
+---
 
 # EU NIS2 Directive
 
