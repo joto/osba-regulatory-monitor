@@ -10,6 +10,8 @@ Die Inhalte dieses Repositories werden von betroffenen Unternehmensvertretern zu
 
 Inhalt
 
+<!-- material/tags { include: [cybersecurity, medical, kritis] } -->
+
 ## Mitarbeit
 
 Hinweise

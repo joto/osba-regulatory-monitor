@@ -76,6 +76,10 @@ theme:
 
 plugins:
   - tags
+      listings_map:
+        custom-id:
+          scope: false
+          toc: true
     
 extra:
   homepage: https://www.osb-alliance.de

@@ -1,3 +1,13 @@
+---
+tags:
+ - cybersecurity
+ - general
+ - reporting
+ - documentation
+ - risk management
+ - processes
+---
+
 # EU Cyber Resilience Act (CRA)
 
 Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in Europa. 
