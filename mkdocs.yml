@@ -1,7 +1,7 @@
 
 # Project
 site_name: OSBA Regulatory Monitor
-site_url: https://eacg-gmbh.github.io/osba-regulatory-monitor/
+site_url: https://eacg-gmbh.github.io/osba-regulatory-monitor
 site_description: >-
   Stellt eine Uebersicht an Regularien sowie deren Wirkung auf die Software-Entwicklung vor 
 site_author: OSBA Security Workgroup 
@@ -19,12 +19,10 @@ nav:
   - EU Regularien: 
     - EU Cyber Resilience Act: 'cra.md'
     - EU NIS2 directive: 'nis2.md'
-    - Proudktsicherheit: 'malware.md'
-    - snippets scanning: 'snippets.md'
   - Non-EU: 'non-eu.md'
   - About: 
     - 'about.md'
-    - Changelog: '../CHANGELOG.md'
+    - Changelog: 'CHANGELOG.md'
 
 theme:
   name: material
