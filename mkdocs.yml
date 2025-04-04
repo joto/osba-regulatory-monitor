@@ -76,8 +76,8 @@ theme:
     - toc.follow
     # - toc.integrate
 
-plugins:
-  - tags
+#plugins:
+#  - tags
     
 extra:
   homepage: https://www.osb-alliance.de
