@@ -17,8 +17,8 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 * **Segment**: IT Sicherheit
 * **Verabschiedet / Veröffentlicht**: 30.10.2024 angenommen, bzw. 20.11.2024 publiziert
 * **Gültig ab**:
-  - Berichtswesen an zentrale Stellen: **11. September 2026**
-  - Durchführung der Schwachstellenbehebung: **11. Dezember 2027** 
+    - Berichtswesen an zentrale Stellen: **11. September 2026**
+    - Durchführung der Schwachstellenbehebung: **11. Dezember 2027** 
 
 **Gültig für**:
 
@@ -34,16 +34,16 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 
 **Grauzone**:
 
-  * Dual-Use-Güter, bspw. nutzbar für Schiffahrt und Haushalte (Annahme: Gültigkeit!)
-  * Logistik-Lösungen 
-  * SaaS-Lösungen, die IoT-Anteile haben (Annahme: SaaS => NIS2, IoT-Devices => CRA)
+* Dual-Use-Güter, bspw. nutzbar für Schiffahrt und Haushalte (Annahme: Gültigkeit!)
+* Logistik-Lösungen 
+* SaaS-Lösungen, die IoT-Anteile haben (Annahme: SaaS => NIS2, IoT-Devices => CRA)
 
 **Neuerungen / Anforderungen**:
 
-  * Anforderung ein aktives Risiko-Management einzuführen
-  * Zusätzliche Prozesse und Verantwortlichkeiten (Produktsicherheit, Vulnerability Disclosure, etc.)
-  * Neue Anofrderungen an Produkt-Updates (freie Sicherheits-Patches für 10 Jahre)
-  * Konformitätserklärung und CE-Kennezichen abgeben
+* Anforderung ein aktives Risiko-Management einzuführen
+* Zusätzliche Prozesse und Verantwortlichkeiten (Produktsicherheit, Vulnerability Disclosure, etc.)
+* Neue Anofrderungen an Produkt-Updates (freie Sicherheits-Patches für 10 Jahre)
+* Konformitätserklärung und CE-Kennezichen abgeben
 
 
 
@@ -63,21 +63,21 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 
 * Bereitstellen einer technischen Dokumentation, die folgendes beinhaltet (s. Art. 13 III & Annex VII) :
 
-  * Beschreibung des regulären Gebrauchs sowie Fälle der fehlerhaften Nutzung und deren Einfluss auf die Risikobewertung
-  * Die Unterstützungsdauer, bzw. einen End-of-life-Termin, ab dem keine Updates mehr zu erwarten sind 
-  * Fähigkeiten des Produktes (bspw. "Kann Musik streamen und abspielen") 
-  * Beschreibung, wie sich Updates installieren lassen
+    * Beschreibung des regulären Gebrauchs sowie Fälle der fehlerhaften Nutzung und deren Einfluss auf die Risikobewertung
+    * Die Unterstützungsdauer, bzw. einen End-of-life-Termin, ab dem keine Updates mehr zu erwarten sind 
+    * Fähigkeiten des Produktes (bspw. "Kann Musik streamen und abspielen") 
+    * Beschreibung, wie sich Updates installieren lassen
 
 * Organisieren und Beschreiben eines Koordinieren Schwachstellen Enthüllungsvorgehens (coordinated vulnerability disclosure, CVD), s. Art. 13, VIII
 
 * Bedienen folgender Berichtsanforderungen , s. Art. 14:
 
-  * Aktiv ausgenutzte Schwachstellen innerhalb 24h nach Bekanntwerden an die ENISA und die nationale, Benannte Stelle (DE = BSI), s. Art 14 II a)
-  * Innerhalb 72h eine präzise Beschreibung der Maßnahmen, die angestrebt werden, s. Art. 14 II b)
-  * Spätestens einen Monat nach der Auflösung der Situation ein vollständiger Bericht , s. Art. 14 II c)
-  * Die Benannten Stellen dürfen nach Zwichenberichten fragen, s. Art 14 VI
-  * Die Benutzer müssen informiert werden, dass es eine Gefahr gibt und was sie dagegen tun sollten (CSAF Security Advisory), s. Art. 14 VIII.
-  * Jeden *sicherheitsrelevanten Vorfall* - der dazu geeignet wäre, die Sicherheit der Software-Supply Chain zu gefährden, bspw. gehackte Admin Credentials - innerhalb  von 24h and die ENISA und die Benannte Stelle zu melden.
+    * Aktiv ausgenutzte Schwachstellen innerhalb 24h nach Bekanntwerden an die ENISA und die nationale, Benannte Stelle (DE = BSI), s. Art 14 II a)
+    * Innerhalb 72h eine präzise Beschreibung der Maßnahmen, die angestrebt werden, s. Art. 14 II b)
+    * Spätestens einen Monat nach der Auflösung der Situation ein vollständiger Bericht , s. Art. 14 II c)
+    * Die Benannten Stellen dürfen nach Zwichenberichten fragen, s. Art 14 VI
+    * Die Benutzer müssen informiert werden, dass es eine Gefahr gibt und was sie dagegen tun sollten (CSAF Security Advisory), s. Art. 14 VIII.
+    * Jeden *sicherheitsrelevanten Vorfall* - der dazu geeignet wäre, die Sicherheit der Software-Supply Chain zu gefährden, bspw. gehackte Admin Credentials - innerhalb  von 24h and die ENISA und die Benannte Stelle zu melden.
 
   
 
