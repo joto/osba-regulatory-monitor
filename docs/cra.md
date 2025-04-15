@@ -17,21 +17,29 @@ Der EU Cyber Resilience Act (CRA) ist ein Meilenstein für die IT-Sicherheit in 
 * **Segment**: IT Sicherheit
 * **Verabschiedet / Veröffentlicht**: 30.10.2024 angenommen, bzw. 20.11.2024 publiziert
 * **Gültig ab**:
-  * Berichtswesen an zentrale Stellen: **11. September 2026**
-  * Durchführung der Schwachstellenbehebung: **11. Dezember 2027** 
-* **Gültig für**:
-  * Alle , die netzwerkfähige Produkte mit digitalen Elementen herstellen oder innerhalb der EU vertreiben (Gewinnerzielungsabsicht) und in der folgenden Liste nicht aufgeführt werden.
-* **Nicht gültig für**:
-  * Lösungen in den Branchen Schiffahrt, Autombil und Luftfahrt (s. ...! )
-  * Medizintechnik (vergleichbare Anfordeurngen s. [MDR](/regmon/mdr.md) !)
-  * Anbieter von Cloud-Diensten (vergelichbare Anfordeurngen s. [NIS2](/regmon/nis2))
-  * Anbieter nicht-gewerblicher Open Source Software, (ACHTUNG! Definition *OS Steward* beachten!) 
-  * Individual-Entwickungen 
-* **Grauzone**:
-  * Dual-Use-Güter (bspw. nutzbar für Schiffahrt und Haushalte) => Annahme der Gültigkeit
+  - Berichtswesen an zentrale Stellen: **11. September 2026**
+  - Durchführung der Schwachstellenbehebung: **11. Dezember 2027** 
+
+**Gültig für**:
+
+* Alle , die netzwerkfähige Produkte mit digitalen Elementen herstellen oder innerhalb der EU vertreiben (Gewinnerzielungsabsicht) und in der folgenden Liste nicht aufgeführt werden.
+
+**Nicht gültig für**:
+
+* Lösungen in den Branchen Schiffahrt, Autombil und Luftfahrt (s. ...! )
+* Medizintechnik (vergleichbare Anfordeurngen s. [MDR](/regmon/mdr.md) !)
+* Anbieter von Cloud-Diensten (vergelichbare Anfordeurngen s. [NIS2](/regmon/nis2))
+* Anbieter nicht-gewerblicher Open Source Software, (ACHTUNG! Definition *OS Steward* beachten!) 
+* Individual-Entwicklungen 
+
+**Grauzone**:
+
+  * Dual-Use-Güter, bspw. nutzbar für Schiffahrt und Haushalte (Annahme: Gültigkeit!)
   * Logistik-Lösungen 
-  * SaaS-Lösungen, die IoT-Anteile haben
-* **Neuerungen / Anforderungen**:
+  * SaaS-Lösungen, die IoT-Anteile haben (Annahme: SaaS => NIS2, IoT-Devices => CRA)
+
+**Neuerungen / Anforderungen**:
+
   * Anforderung ein aktives Risiko-Management einzuführen
   * Zusätzliche Prozesse und Verantwortlichkeiten (Produktsicherheit, Vulnerability Disclosure, etc.)
   * Neue Anofrderungen an Produkt-Updates (freie Sicherheits-Patches für 10 Jahre)

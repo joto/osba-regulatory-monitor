@@ -17,9 +17,16 @@ nav:
     - 'index.md'
     - Mitarbeit: 'adding.md'
   - EU Regularien: 
-    - EU Cyber Resilience Act: 'cra.md'
-    - EU NIS2 directive: 'nis2.md'
+    - Directive on the Resilience of critical Entities (CER): 'cer.md'
+    - Digital Operational Resilience Act (DORA): 'dora.md'
+    - EU Cyber Resilience Act (CRA): 'cra.md'
+    - EU NIS2 Directive: 'nis2.md'
+    - Medical Device Directive (MDR): 'mdr.md'
+    - Product Liability Directive (PLD): 'pld.md'
+    - Radio Frequency Directive (RED): 'red.md'
   - Non-EU: 'non-eu.md'
+  - Standards: 
+      - ISO-52032: ''
   - About: 
     - 'about.md'
     - Changelog: 'CHANGELOG.md'
@@ -30,14 +37,14 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       primary: white
-      accent: teal
+      accent: lime
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
       primary: black
-      accent: teal
+      accent: lime
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
