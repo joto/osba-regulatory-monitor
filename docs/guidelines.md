@@ -1,6 +1,6 @@
 # Mitarbeit
 
-Wir ermutigen jeden, der Erfahrung mit der einen oder anderen regulatorischen Vorgabe gemacht hat, diese Kenntnis und Erfahung hier einzubringen. Ob es um die Darstellung und KOrrektheit der INhalte ode rum geeignete Lösungsansätze geht, alle Inhalte können hier ihren Platz finden. Aber wie läuft das ab?
+Wir ermutigen jeden, der Erfahrung mit der einen oder anderen regulatorischen Vorgabe gemacht hat, diese Kenntnis und Erfahung hier einzubringen. Ob es um die Darstellung und Korrektheit der Inhalte oder um geeignete Lösungsansätze geht, alle Inhalte können hier ihren Platz finden. Aber wie läuft das ab?
 
 ## Organisatorisches
 
@@ -47,4 +47,6 @@ Wer **Bilder** ergänzen möchte, sollte diese im Ordner `/assets` ablegen. Idea
 
 ## Fragliches
 
-Für alle Fragen stehen wir jederzeit in den Meetings oder auch via issues im Repo zur Verfügung. wir wollen hier einen Beitrag zur Vereinfachung der wirklich komplexen Regulatorik schaffen. Die Wahl von MD und Github-Pages soll es möglichst simpel halten und Vielen ermöglichen, zu unterstützen. Also keine Scheu, wir antworten gerne. Rechtsberatung können und dürfen wir jedoch nciht erteilen. 
+Für alle Fragen stehen wir jederzeit in den Meetings oder auch via issues im Repo zur Verfügung. wir wollen hier einen Beitrag zur Vereinfachung der wirklich komplexen Regulatorik schaffen. Die Wahl von MD und Github-Pages soll es möglichst simpel halten und Vielen ermöglichen, zu unterstützen. Also keine Scheu, wir antworten gerne. 
+
+Rechtsberatung können und dürfen wir jedoch nicht erteilen! 

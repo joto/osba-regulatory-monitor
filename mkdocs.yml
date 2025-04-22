@@ -15,7 +15,7 @@ copyright: Copyright &copy; 2025 <a href="https://osb-alliance.de/impressum">OSB
 nav:
   - Hintergrund: 
     - 'index.md'
-    - Mitarbeit: 'adding.md'
+    - Mitarbeit: 'guidelines.md'
   - EU Regularien: 
     - Directive on the Resilience of critical Entities (CER): 'cer.md'
     - Digital Operational Resilience Act (DORA): 'dora.md'
