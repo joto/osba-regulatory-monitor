@@ -16,7 +16,7 @@ Inhalt
 
 ## Mitarbeit
 
-Wir freuen uns über Unterstützung und Mitarbeit. Jeder, der bereits die eine oder andere regulatorische Hürde genommen hat, ist eingeladen, seine Erkenntniss eund sein Wissen hier einzubringen. Im Bereich [**Mitarbeit**](/adding.md) findet sich eine Anleitung, wie sich Inhalte hinzufügen lassen. 
+Wir freuen uns über Unterstützung und Mitarbeit. Jeder, der bereits die eine oder andere regulatorische Hürde genommen hat, ist eingeladen, seine Erkenntniss eund sein Wissen hier einzubringen. Im Bereich [**Mitarbeit**](/osba-regulatory-monitor/guidelines) findet sich eine Anleitung, wie sich Inhalte hinzufügen lassen. 
 
 ## Kontakt
 
